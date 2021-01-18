@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/floresfreddy.github.io/static/css/main.aa32695d.chunk.css",
+    "main.js": "/floresfreddy.github.io/static/js/main.4046b4ca.chunk.js",
+    "main.js.map": "/floresfreddy.github.io/static/js/main.4046b4ca.chunk.js.map",
+    "runtime-main.js": "/floresfreddy.github.io/static/js/runtime-main.016bff2c.js",
+    "runtime-main.js.map": "/floresfreddy.github.io/static/js/runtime-main.016bff2c.js.map",
+    "static/css/2.aae40551.chunk.css": "/floresfreddy.github.io/static/css/2.aae40551.chunk.css",
+    "static/js/2.64d6b1c8.chunk.js": "/floresfreddy.github.io/static/js/2.64d6b1c8.chunk.js",
+    "static/js/2.64d6b1c8.chunk.js.map": "/floresfreddy.github.io/static/js/2.64d6b1c8.chunk.js.map",
+    "static/js/3.a8712d16.chunk.js": "/floresfreddy.github.io/static/js/3.a8712d16.chunk.js",
+    "static/js/3.a8712d16.chunk.js.map": "/floresfreddy.github.io/static/js/3.a8712d16.chunk.js.map",
+    "index.html": "/floresfreddy.github.io/index.html",
+    "static/css/2.aae40551.chunk.css.map": "/floresfreddy.github.io/static/css/2.aae40551.chunk.css.map",
+    "static/css/main.aa32695d.chunk.css.map": "/floresfreddy.github.io/static/css/main.aa32695d.chunk.css.map",
+    "static/js/2.64d6b1c8.chunk.js.LICENSE.txt": "/floresfreddy.github.io/static/js/2.64d6b1c8.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/floresfreddy.github.io/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.016bff2c.js",
+    "static/css/2.aae40551.chunk.css",
+    "static/js/2.64d6b1c8.chunk.js",
+    "static/css/main.aa32695d.chunk.css",
+    "static/js/main.4046b4ca.chunk.js"
+  ]
+}
